@@ -1,0 +1,21 @@
+{
+  "name": "BigBased",
+  "short_name": "BigBased",
+  "description": "Break the Matrix. Build the Kingdom.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#e6c87d",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

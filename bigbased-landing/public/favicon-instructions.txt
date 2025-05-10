@@ -1,0 +1,5 @@
+For favicon.ico:
+1. Create a 16x16, 32x32, and 48x48 pixel version of your logo
+2. Use a tool like https://www.favicon-generator.org/ or https://realfavicongenerator.net/ to generate the .ico file
+3. Place the generated favicon.ico file in the public directory
+4. Remove this instruction file
